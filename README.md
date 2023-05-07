@@ -8,12 +8,13 @@ I am a Junior ReactJS Developer with a passion for building high-quality web app
 - HTML
 - CSS
 - JavaScript
+- Redux
+
 
 ## Currently Learning
 I am always learning and looking to improve my skills. Currently, I am focusing on learning the following:
 
-- Redux
-- React Native
+- Nextjs
 - TypeScript
 
 ## Contact Me
